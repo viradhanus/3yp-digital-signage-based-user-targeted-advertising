@@ -1,6 +1,6 @@
 # Project Name : Digital Signage Based User Targeted Advertising
 
-[**Click here to visit our website**](https://cepdnaclk.github.io/e16-3yp-digital-signage-based-user-targeted-advertising/)
+[**Click here to visit our website**](http://viradhanus.me/digital-signage-based-user-targeted-advertising/)
 
 
 ## INTRODUCTION
@@ -93,9 +93,8 @@ Multiple tests have driven to ensure the accurate functionality of the product. 
 <img src="https://github.com/cepdnaclk/e16-3yp-digital-signage-based-user-targeted-advertising/blob/main/Images/bill_of_materials.png" alt="image_overall_design" width="650" height="350"/>
 
 ## Documentation
-> [Design Manual](https://github.com/cepdnaclk/e16-3yp-digital-signage-based-user-targeted-advertising/blob/main/Documentation/Design%20Manual%20-%20Digital%20Signage%20Based%20User%20Targeted%20Advertising%20(1).pdf) 
 
-> [User Manual](https://github.com/cepdnaclk/e16-3yp-digital-signage-based-user-targeted-advertising/blob/main/Documentation/User%20Manual%20-%20Digital%20Signage%20Based%20User%20Targeted%20Advertising%20(1).pdf) 
+> [User Manual](https://docs.google.com/document/d/1kRpWdGl_r0D1xxeCaXwjBthFsbB3dfpd5579CbDE-i8/edit?usp=sharing) 
 
 
 ## Advisors
